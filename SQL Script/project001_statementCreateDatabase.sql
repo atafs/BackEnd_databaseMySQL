@@ -1,0 +1,5 @@
+CREATE DATABASE Sample;
+
+USE Sample;
+
+DROP DATABASE Sample;
