@@ -1,0 +1,6 @@
+//1- create dabase FIRST
+new database
+
+//2- backup and restore 
+backup and restore
+restore database

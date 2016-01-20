@@ -1,0 +1,54 @@
+//YOUTUBE LIST
+
+//Curso Mysql base aula 1 - introdução
+https://www.youtube.com/watch?v=TrpYcD8ApQM&index=1&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs&spfreload=10
+
+//Curso Mysql base aula 2 - definição de tipos
+https://www.youtube.com/watch?v=bYqEz38t7lA&index=2&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs
+
+//Curso Mysql base aula 3 - Download e instalação
+https://www.youtube.com/watch?v=fqG1auDogYw&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs&index=3
+
+//Curso Mysql base aula 4
+https://www.youtube.com/watch?v=lscShlA3sUk&index=4&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs
+
+//Curso Mysql base aula 5
+https://www.youtube.com/watch?v=Z5CHt1TI17k&index=5&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs
+
+//Curso Mysql base aula 6
+https://www.youtube.com/watch?v=01_cubNSNWQ&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs&index=6
+
+//Curso Mysql base aula 7
+https://www.youtube.com/watch?v=7k-42gJNyRM&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs&index=7
+
+//Curso Mysql base aula 10
+https://www.youtube.com/watch?v=fIHlPdGubyU&index=10&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs
+
+//Curso Mysql base aula 11
+https://www.youtube.com/watch?v=ronIkgcIRhQ&index=11&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs
+
+//Curso Mysql base aula 12
+https://www.youtube.com/watch?v=sgc8xmRTdx4&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs&index=12
+
+//Curso Mysql base aula 13
+https://www.youtube.com/watch?v=F6aJ3rs0MMA&index=13&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs
+
+//Curso Mysql base aula 14
+https://www.youtube.com/watch?v=YBBhD5DHltk&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs&index=14
+
+//Curso Mysql base aula 15
+https://www.youtube.com/watch?v=tEEUdmTbIJU&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs&index=15
+
+//Curso Mysql base aula 16
+https://www.youtube.com/watch?v=AN3BM8kMg9Q&index=16&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs
+
+//Curso Mysql base aula 17
+DONE!!
+
+
+//USE OF THE TOOL #########################################################################
+//Curso Mysql base aula 8
+https://www.youtube.com/watch?v=HIBYvJFKCr8&index=8&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs
+
+//Curso Mysql base aula 9
+https://www.youtube.com/watch?v=K59o8aS8B4E&index=9&list=PLq-sApY8QuycUvV7-V-6Co2ekGBs_k-cs
